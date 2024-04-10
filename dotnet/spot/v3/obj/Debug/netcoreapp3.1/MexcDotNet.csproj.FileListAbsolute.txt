@@ -1,0 +1,16 @@
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.csproj.AssemblyReference.cache
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.AssemblyInfoInputs.cache
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.AssemblyInfo.cs
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.csproj.CoreCompileInputs.cache
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/bin/Debug/netcoreapp3.1/OurbitDotNet
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/bin/Debug/netcoreapp3.1/OurbitDotNet.deps.json
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/bin/Debug/netcoreapp3.1/OurbitDotNet.runtimeconfig.json
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/bin/Debug/netcoreapp3.1/OurbitDotNet.runtimeconfig.dev.json
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/bin/Debug/netcoreapp3.1/OurbitDotNet.dll
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/bin/Debug/netcoreapp3.1/OurbitDotNet.pdb
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.csproj.CopyComplete
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.dll
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.pdb
+/Users/xiechenghan/Desktop/ourbit_Csharp_demo/ourbit-v3-dotnet/obj/Debug/netcoreapp3.1/OurbitDotNet.genruntimeconfig.cache
